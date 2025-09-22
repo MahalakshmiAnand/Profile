@@ -33,7 +33,12 @@
 
 ## 🌐 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/mahalakshmiganand)  
-- 📧 Email: mahalakshmianandg11@gmail.com  
+- 📧 Email: mahalakshmianandg11@gmail.com
+## 🏆 Certifications
+
+- [Agentic AI for Business Analysis]((https://www.linkedin.com/learning/certificates/838df5b15941f0a66e797d01db40f86e04d697bab5380dba930ae1470a860ac4)) – LinkedIn Learning  
+
+
 
 ---
 ✨ *Thanks for visiting my profile!* ✨
