@@ -35,8 +35,10 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/mahalakshmiganand)  
 - 📧 Email: mahalakshmianandg11@gmail.com
 ## 🏆 Certifications
+Check out my certifications and achievements:
 
-- [Agentic AI for Business Analysis]((https://www.linkedin.com/learning/certificates/838df5b15941f0a66e797d01db40f86e04d697bab5380dba930ae1470a860ac4)) – LinkedIn Learning  
+[![Certifications](https://img.shields.io/badge/View%20Certifications-🏅-brightgreen)](./certifications.md)
+
 
 
 
