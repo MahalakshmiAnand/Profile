@@ -21,4 +21,26 @@
 ---
 
 ## 📂 Projects
-🚧 *I am currently working on projects and will be updatin*
+🚧 *I am currently working on projects and will be updating this section soon!*  
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=radical)
+
+---
+
+## 🏆 Certifications
+Check out my certifications and achievements:
+
+[![Certifications](https://img.shields.io/badge/View%20Certifications-🏅-brightgreen)](./certifications.md)
+
+---
+
+## 🌐 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/mahalakshmiganand)  
+- 📧 Email: mahalakshmianandg11@gmail.com  
+
+---
+✨ *Thanks for visiting my profile!* ✨
