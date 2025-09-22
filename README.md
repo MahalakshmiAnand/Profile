@@ -21,25 +21,4 @@
 ---
 
 ## 📂 Projects
-🚧 *I am currently working on projects and will be updating this section soon!*  
-
----
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=radical)
-
----
-
-## 🌐 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/mahalakshmiganand)  
-- 📧 Email: mahalakshmianandg11@gmail.com
-## 🏆 Certifications
-
-- [Agentic AI for Business Analysis]((https://www.linkedin.com/learning/certificates/838df5b15941f0a66e797d01db40f86e04d697bab5380dba930ae1470a860ac4)) – LinkedIn Learning  
-
-
-
----
-✨ *Thanks for visiting my profile!* ✨
-
+🚧 *I am currently working on projects and will be updatin*
